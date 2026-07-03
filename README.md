@@ -170,7 +170,7 @@ I'm always interested in discussing:
 **Reach out through:**
 - 📧 Email: [fmunoz333@gmail.com](mailto:fmunoz333@gmail.com) | [fmunoz333@outlook.com](mailto:fmunoz333@outlook.com)
 - 💼 LinkedIn: [fernando-munoz-4737571](https://www.linkedin.com/in/fernando-munoz-4737571)
-- 🌐 Portfolio: [fmunoz333.wixsite.com](https://fmunoz333.wixsite.com/project-manager)
+- 🌐 Portfolio: [fmunoz333.github.io](https://fmunoz333.github.io/fernando-munoz-cv/#portfolio)
 
 ---
 
