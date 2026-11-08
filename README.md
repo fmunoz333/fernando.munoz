@@ -174,12 +174,6 @@ I'm always interested in discussing:
 
 ---
 
-### 📊 GitHub Stats
-
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmunoz333&show_icons=true&theme=radical)
-
----
-
 ### 🎯 Current Focus
 
 I'm currently focused on:
