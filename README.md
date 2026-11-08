@@ -24,12 +24,12 @@ Strategic data analyst and technology leader with **33 years** of progressive ex
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Access](https://img.shields.io/badge/Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
+![Data Studio](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
 
 #### Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=flat&logo=.net&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 #### Project Management & Collaboration
 ![Microsoft Project](https://img.shields.io/badge/MS_Project-217346?style=flat&logo=microsoft&logoColor=white)
