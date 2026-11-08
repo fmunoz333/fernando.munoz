@@ -192,6 +192,6 @@ I'm currently focused on:
   
 ![Profile Views](https://komarev.com/ghpvc/?username=fmunoz333&color=blueviolet)
   
-**© 2025 Fernando Xavier Muñoz Rivadeneira. All rights reserved.**
+**© 2026 Fernando Xavier Muñoz Rivadeneira. All rights reserved.**
 
 </div>
