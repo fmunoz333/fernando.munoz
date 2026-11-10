@@ -78,11 +78,11 @@ For complete role descriptions, dates and achievements, see the [Professional CV
 
 ## 🔧 Technical Toolkit
 
-**Analytics & BI:** Power BI · Google Data Studio · Excel · SQL · Data Modeling · KPI design  
-**Programming & Automation:** Visual Basic · VBA · ETL · Reporting Automation
-**Project Management:** Microsoft Project · Jira · Trello · Agile · Scrum · Git · Clickup · Notion · Airtable
-**Operations & Improvement:** ITIL · Six Sigma · Risk Management · Business Continuity
-**AI & Emerging Technologies:** Claude.ai · Gemini · ChatGPT · Perplexity · Copilot
+- **Analytics & BI:** Power BI · Google Data Studio · Excel · SQL · Data Modeling · KPI design  
+- **Programming & Automation:** Visual Basic · VBA · ETL · Reporting Automation
+- **Project Management:** Microsoft Project · Jira · Trello · Agile · Scrum · Git · Clickup · Notion · Airtable
+- **Operations & Improvement:** ITIL · Six Sigma · Risk Management · Business Continuity
+- **AI & Emerging Technologies:** Claude.ai · Gemini · ChatGPT · Perplexity · Copilot
 
 ## 📫 Connect
 
