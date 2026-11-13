@@ -35,9 +35,9 @@ The following repositories demonstrate analytical, technical and project-deliver
 
 | Project | What it demonstrates | Repository |
 |---|---|---|
-| Project Management Analysis System | Power BI analysis of 4,000 projects and a $4.57B anonymized dataset | [Open repository](https://github.com/fmunoz333/project-management-analysis-system) |
 | Enterprise Budget Management Dashboard | Executive budget visibility, program/project/contract drill-through and DAX | [Open repository](https://github.com/fmunoz333/enterprise-budget-management-system) |
 | Telecommunications Network Analysis | Google Data Studio dashboard, network, revenue and geographic analytics using a public training dataset | [Open repository](https://github.com/fmunoz333/telecom-analytics-dashboard) |
+| Project Management Analysis System | Power BI analysis of 4,000 projects and a $4.57B anonymized dataset | [Open repository](https://github.com/fmunoz333/project-management-analysis-system) |
 | Terranova 100 4G — Project Management | Hypothetical 100-site telecom rollout demonstrating PMBOK-aligned planning and governance | [Open repository](https://github.com/fmunoz333/terranova-4g-100-project-management) |
 | Terranova 100 4G — Database Design | Relational database, SQL, VBA automation and executive reporting | [Open repository](https://github.com/fmunoz333/database_design) |
 | Terranova 100 4G — Executive Project Control | Excel, VBA, Power Query, Power Pivot and EVM-oriented project controls | [Open repository](https://github.com/fmunoz333/executive_project_control_dashboard) |
